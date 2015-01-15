@@ -22,11 +22,15 @@ button {
     width: 100%;
     height: 100%;
     line-height: 100%;
+    border: 2px solid #B8CC97;
+    border-radius: 10px;
+    color: white;
     background-color: #C8DEA4;
     font-size: 18px;
-    border-radius: 10px;
 }
 
 .digit {
     color: black;
+    border: 2px solid #CFCDCA;
+    background-color: #E8E5DF;
 }
