@@ -29,8 +29,16 @@ button {
     font-size: 18px;
 }
 
+button:hover {
+    background-color: #B8CC97;
+}
+
 .digit {
     color: black;
     border: 2px solid #CFCDCA;
     background-color: #E8E5DF;
+}
+
+.digit:hover {
+    background-color: #CFCDCA;
 }
